@@ -1,6 +1,6 @@
 # gender-classification-transfer-learning
 
-The code for the entire project is written in https://github.com/angwanqi/gender-classification-transfer-learning/blob/main/Transfer%20Learning.ipynb 
+The code for the entire project is written in [this Python notebook](https://github.com/angwanqi/gender-classification-transfer-learning/blob/main/Transfer%20Learning.ipynb).
 
 Just proceed to the jupyter notebook labelled **Transfer Learning.ipnyb** and press run and you will get everything you need present in the respective folders for you, ie. *weights* contains the best weights of the trained model, and *results* contains all the visualisations and data achieved from the evaluation of the model.
 
